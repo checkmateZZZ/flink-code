@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="SupervisionAnalyse">
-    <output-path>$PROJECT_DIR$/..</output-path>
-    <root id="archive" name="SupervisionAnalyse.jar">
-      <element id="module-output" name="supervisionanalyse" />
-      <element id="library" level="project" name="Maven: org.apache.avro:avro:1.8.2" />
-    </root>
-  </artifact>
-</component>
